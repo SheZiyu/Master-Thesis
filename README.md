@@ -7,6 +7,7 @@ The initial_version is in English.
 The final version 18215015_Ziyu She.pdf is in Chinese.
 
 Keypoints:
+
 ![image](https://github.com/SheZiyu/Master-Thesis/assets/98766434/a1f42a33-62c3-41a9-950d-484c76051917)
 
 ![image](https://github.com/SheZiyu/Master-Thesis/assets/98766434/00cc0717-0c3d-4202-96ae-993c57dc5ba4)
@@ -15,7 +16,8 @@ Keypoints:
 
 ![image](https://github.com/SheZiyu/Master-Thesis/assets/98766434/906471bd-0531-4e88-bd65-b3947dadf9ba)
 
-![image](https://github.com/SheZiyu/Master-Thesis/assets/98766434/ff43d853-905c-4229-aba8-632ea0b8b3a4)
+![image](https://github.com/SheZiyu/Master-Thesis/assets/98766434/8f03ed7a-995d-4d69-b723-49f8c86bbcd6)
+
 
 
 
