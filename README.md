@@ -10,7 +10,7 @@ Keypoints:
 
 ![image](https://github.com/SheZiyu/Master-Thesis/assets/98766434/a1f42a33-62c3-41a9-950d-484c76051917)
 
-![image](https://github.com/SheZiyu/Master-Thesis/assets/98766434/dceff13f-0484-49ac-8e21-d79e313cb0ae)
+![image](https://github.com/SheZiyu/Master-Thesis/assets/98766434/eecbb9d7-201b-420f-85f9-501f92d328dc)
 
 ![image](https://github.com/SheZiyu/Master-Thesis/assets/98766434/a2e4d00f-e333-4d89-8ac4-0e14e10eb74a)
 
